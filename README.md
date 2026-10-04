@@ -7,7 +7,8 @@ A signed client can still have a broken start if ownership, dependencies, blocke
 Day 12 makes that handoff inspectable.
 
 **Live build:** https://braiz-works.github.io/ubuildos-completion-receipt-013/  
-**Public repository:** https://github.com/BRAIZ-Works/ubuildos-completion-receipt-013
+**Public repository:** https://github.com/BRAIZ-Works/ubuildos-completion-receipt-013  
+**LinkedIn release:** https://lnkd.in/p/evmzGsTb
 
 ## The question
 

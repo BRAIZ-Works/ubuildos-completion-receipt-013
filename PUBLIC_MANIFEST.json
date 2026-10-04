@@ -1,6 +1,6 @@
 {
   "schema": "UBUILDOS_PUBLIC_MANIFEST_V1",
-  "release": "Day 12 Client Onboarding Tracker public projection v1.2.1",
+  "release": "Day 12 Client Onboarding Tracker public projection v1.2.2",
   "product_sha256": "02f9f7aa59c7a1942f04965b5a5d8afecc5441cc04e103c01f98b2d623baca20",
   "entries": [
     {
@@ -35,8 +35,8 @@
     },
     {
       "path": "LIFECYCLE_STATUS.md",
-      "bytes": 578,
-      "sha256": "7965795467975ee561d89bacd369161d2c6ab8750f4238553091ff68437823b3"
+      "bytes": 819,
+      "sha256": "8b1d34e50465105d0254e549d3a206ea09c068b529dedb59c58b5101f7838862"
     },
     {
       "path": "PROOF.md",
@@ -45,13 +45,13 @@
     },
     {
       "path": "PUBLICATION_GATE.md",
-      "bytes": 358,
-      "sha256": "b3f3ebdee968fd3cc2487930d6d5847be8de035735c3a389ccfcdd0058c2a38b"
+      "bytes": 555,
+      "sha256": "5184c80d2d34ad334f74553bab07630fdab2e9d85ae7c4ba5e094c1490ce8ad8"
     },
     {
       "path": "README.md",
-      "bytes": 2245,
-      "sha256": "298b0280ded43f4a91498619eeb8ab4297ee07c4600e3e6afd234999660d6965"
+      "bytes": 2296,
+      "sha256": "ffe08b75a2b0e0a5ca6b07f8542c2adb6bd63b2c64ee8425ebc7b89ddf9d5bdd"
     },
     {
       "path": "RECOVERY_VERSIONING.md",
@@ -131,7 +131,7 @@
     {
       "path": "tests/verify_public_projection.py",
       "bytes": 2950,
-      "sha256": "65af6ae2be8d11c327b5fa51ff1076d6f27dfed4064aa944079d1d8eeac2e164"
+      "sha256": "246ff459d44de082af10288abbc8966add9a9976eec68af60cd189a2480b03b8"
     }
   ]
 }

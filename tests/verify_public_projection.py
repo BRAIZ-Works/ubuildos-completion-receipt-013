@@ -23,7 +23,7 @@ missing_indexed=[x for x in sorted(indexed) if not (root/x).is_file()]
 assert not missing_indexed, ('indexed documents missing', missing_indexed)
 manifest=json.loads((root/'PUBLIC_MANIFEST.json').read_text())
 assert manifest.get('schema')=='UBUILDOS_PUBLIC_MANIFEST_V1'
-assert manifest.get('release')=='Day 12 Client Onboarding Tracker public projection v1.2.1'
+assert manifest.get('release')=='Day 12 Client Onboarding Tracker public projection v1.2.2'
 entries=manifest.get('entries',[])
 assert entries, 'empty manifest'
 seen=set()
@@ -46,4 +46,4 @@ for ln in lines:
     checksum_paths.add(rel)
 expected_checksum_paths=actual|{'PUBLIC_MANIFEST.json'}
 assert checksum_paths==expected_checksum_paths, ('checksum population mismatch', sorted(expected_checksum_paths-checksum_paths), sorted(checksum_paths-expected_checksum_paths))
-print(f'PASS: {len(entries)} manifest-bound files; indexed-document referential integrity PASS; Day-12 v1.2.1 documentation/public boundaries present')
+print(f'PASS: {len(entries)} manifest-bound files; indexed-document referential integrity PASS; Day-12 v1.2.2 documentation/public boundaries present')
