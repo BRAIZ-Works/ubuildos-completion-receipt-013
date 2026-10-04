@@ -1,5 +1,5 @@
 # Publication Gate
 
-STATE: NOT AUTHORIZED FOR PUBLICATION
+STATE: BLOCKED_PENDING_FRESH_DOCUMENTATION_DISTRIBUTION_IQA_AND_OWNER_AUTHORITY
 
-Publication requires: producer convergence, exact candidate lock, Fresh IQA PASS, owner review of the exact public candidate, and separate explicit owner publication authorization. LinkedIn occurs only after GitHub/Pages live readback passes.
+The frozen product remains valid. The changed documentation/distribution successor may not replace public bytes or be published to LinkedIn until the affected successor receives Fresh Independent IQA PASS and the owner authorizes the exact successor bytes.
