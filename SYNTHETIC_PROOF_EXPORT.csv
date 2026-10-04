@@ -1,0 +1,6 @@
+client,step,owner,status,reason,completion_evidence
+Northstar Field Services,Confirm signed agreement,Jordan,COMPLETE,Required predecessor(s) and completion evidence satisfied.,Signed agreement ref SYN-001
+Northstar Field Services,Schedule kickoff,Casey,COMPLETE,Required predecessor(s) and completion evidence satisfied.,Calendar confirmation SYN-002
+Northstar Field Services,Collect access requirements,Avery,BLOCKED,Active blocker: Client has not named system admin,
+Northstar Field Services,Prepare initial workspace,Morgan,WAITING,Waiting for required predecessor: access,Workspace checklist SYN-004
+Northstar Field Services,Confirm training handoff,Riley,WAITING,Waiting for required predecessor: migration,
